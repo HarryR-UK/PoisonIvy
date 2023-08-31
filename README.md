@@ -9,6 +9,8 @@ A python program which can do different networking functions, such as:
 
 `Pinging an IP address`
 
+`spamming through text`
+
 # BACKGROUND
 
 This was a slightly older program I had made, which was my first introduction of network programming.
